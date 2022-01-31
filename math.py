@@ -1,14 +1,14 @@
-# add implementation
+# addition implementation
 def add(a,b):
     pass
-# subtraction 
+# subtraction implementation
 def sub(a,b):
     pass
 
-# multiply implementation
+# multiplication implementation
 def mul(a,b):
     pass
 
-# divide implementation
+# division implementation
 def div(a,b):
     pass
