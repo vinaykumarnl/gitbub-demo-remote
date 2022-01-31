@@ -1,6 +1,7 @@
 # addition implementation
 def add(a,b):
-    pass
+    return a+b
+
 # subtraction implementation
 def sub(a,b):
     pass
